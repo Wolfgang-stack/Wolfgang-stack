@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wolfgang</h1>
 <h3 align="center">A full-stack developer from Australia living in Portland OR</h3>
 
-- 🌱 I’m currently learning **EVERYTHING**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [wolfgangmcrae.com](wolfgangmcrae.com)
 
-- 💬 Ask me about **EVERYTHING**
+- 💬 Ask me about **literally ANYTHING**
 
 - 📫 How to reach me **wolfgang.a.mcrae**
 
