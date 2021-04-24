@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **literally ANYTHING**
 
-- 📫 How to reach me **wolfgang.a.mcrae**
+- 📫 How to reach me <a href="mailto:wolfgangm.dev@gmail.com">wolfgangm.dev@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
