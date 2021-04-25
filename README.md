@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [wolfgangmcrae.com](wolfgangmcrae.com)
+- 👨‍💻 All of my projects are available at <a href="https://www.wolfgangmcrae.com">wolfgangmcrae.com</a>
 
 - 💬 Ask me about **literally ANYTHING**
 
