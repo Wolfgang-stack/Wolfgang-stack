@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wolfgang</h1>
 <h3 align="center">A full-stack developer from Australia living in Portland OR</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning NEXT.js
 
 - 👨‍💻 All of my projects are available at <a href="https://www.wolfgangmcrae.com">wolfgangmcrae.com</a>
 
-- 💬 Ask me about **literally ANYTHING**
+- 💬 Ask me about literally ANYTHING!
 
 - 📫 How to reach me <a href="mailto:wolfgangm.dev@gmail.com">wolfgangm.dev@gmail.com</a>
 
