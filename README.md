@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wolfgang</h1>
 <h3 align="center">A full-stack developer from Australia living in Portland OR</h3>
 
-- 🌱 I’m currently learning NEXT.js
+- 🌱 I’m currently learning TypeScript and FP
 
 - 👨‍💻 All of my projects are available at <a href="https://www.wolfgangmcrae.com">wolfgangmcrae.com</a>
 
