@@ -1,4 +1,4 @@
-<h3>I'm a full-stack developer from Australia living in Portland, OR</h3>
+I'm a full-stack developer from Australia living in Portland, OR
 
 ---
 
